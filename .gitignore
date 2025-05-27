@@ -3,9 +3,9 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-
+/[Ll]ibrary/
 /[Tt]emp/
-
+/[Oo]bj/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
@@ -55,7 +55,15 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
 
+# Crashlytics generated file
+crashlytics-build.properties
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
@@ -72,6 +80,8 @@ sysinfo.txt
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
@@ -134,7 +144,8 @@ sysinfo.txt
 
 *.dylib
 
-
+# Crashlytics generated file
+crashlytics-build.properties
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
