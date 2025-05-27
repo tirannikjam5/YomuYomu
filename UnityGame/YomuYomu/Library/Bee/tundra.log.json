@@ -470,6 +470,6 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles C:/Ballari/GIT/YomuYomu/YomuYomu/docs/TemplateData/unity-logo-light.png","enqueuedNodeIndex":658,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":661}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles C:/Ballari/GIT/YomuYomu/YomuYomu/docs/TemplateData/unity-logo-title-footer.png","enqueuedNodeIndex":659,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":661}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles C:/Ballari/GIT/YomuYomu/YomuYomu/docs/TemplateData/webmemd-icon.png","enqueuedNodeIndex":660,"enqueueingNodeAnnotation":"Player","enqueueingNodeIndex":661}
-{"msg":"newNode","annotation":"CopyFiles C:/Ballari/GIT/YomuYomu/YomuYomu/docs/Build/docs.data","index":645}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles C:/Ballari/GIT/YomuYomu/YomuYomu/docs/Build/docs.data","index":645,"changes":[{"key":"FileList","value":["Library\\Bee\\artifacts\\WebGL\\webgl.data"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles C:/Ballari/GIT/YomuYomu/YomuYomu/docs/Build/docs.data","displayName":"Copying docs.data","index":645}
 {"msg":"noderesult","processed_node_count":469,"number_of_nodes_ever_queued":471,"annotation":"CopyFiles C:/Ballari/GIT/YomuYomu/YomuYomu/docs/Build/docs.data","index":645,"exitcode":0,"outputfile":"C:\\Ballari\\GIT\\YomuYomu\\YomuYomu\\docs\\Build\\docs.data"}
