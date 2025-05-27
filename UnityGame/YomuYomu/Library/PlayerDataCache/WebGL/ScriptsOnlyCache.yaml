@@ -10,7 +10,6 @@ ScriptsOnlyBuild:
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Animation.Runtime.dll:
-    - UnityEngine.U2D.Animation.BufferManager
     - UnityEngine.U2D.Animation.DeformationManager
     - UnityEngine.U2D.Animation.DeformationManagerUpdater
     Unity.2D.IK.Editor.dll:
@@ -2192,4 +2191,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Game/Scene/game1.unity
-  playerPath: C:/Ballari/GIT/YomuYomu/YomuYomu/BUILD
+  playerPath: C:/Ballari/GIT/YomuYomu/YomuYomu/docs
