@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9045e3da943bbf144b1e58965d3bc2a7, type: 3}
+  m_Name: nyu
+  m_EditorClassIdentifier: 
+  hiragana: "\u306B\u3085"
+  katakana: "\u30CB\u30E5"
+  romaji: nyu
+  audioClip: {fileID: 8300000, guid: c641a6f902cd75340b3e5f3e7731e9a4, type: 3}

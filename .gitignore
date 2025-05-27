@@ -144,6 +144,8 @@ sysinfo.txt
 *.unitypackage.meta
 *.app
 
+*.dylib
+
 # Crashlytics generated file
 crashlytics-build.properties
 
@@ -159,3 +161,9 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+
+
+/[Aa]ssets/TextMesh Pro/Fonts/*
+/UnityGame/YomuYomu/Assets/TextMesh Pro/Fonts/NotoSansJP-Regular SDF.asset
+UnityGame/YomuYomu/Assets/TextMesh Pro/Fonts/NotoSansJP-Regular SDF.asset.meta
