@@ -167,3 +167,11 @@ crashlytics-build.properties
 /[Aa]ssets/TextMesh Pro/Fonts/*
 /UnityGame/YomuYomu/Assets/TextMesh Pro/Fonts/NotoSansJP-Regular SDF.asset
 UnityGame/YomuYomu/Assets/TextMesh Pro/Fonts/NotoSansJP-Regular SDF.asset.meta
+UnityGame/YomuYomu/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.a
+UnityGame/YomuYomu/Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a
+UnityGame/YomuYomu/Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a
+UnityGame/YomuYomu/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.a
+UnityGame/YomuYomu/Library/Bee/artifacts/WebGL/*
+
+*.a
+/UnityGame/YomuYomu/Library/Bee/artifacts/WebGL/GameAssembly
