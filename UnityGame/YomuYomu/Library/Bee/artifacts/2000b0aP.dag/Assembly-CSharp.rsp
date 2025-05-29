@@ -327,9 +327,11 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.49f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.49f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.49f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Game/Scripts/BackgroundColor.cs"
 "Assets/Game/Scripts/KanaData.cs"
 "Assets/Game/Scripts/KanaDatabase.cs"
 "Assets/Game/Scripts/KanaGameManager.cs"
+"Assets/Game/Scripts/PowerUpManager.cs"
 "Assets/Game/Scripts/WordData.cs"
 -langversion:9.0
 /deterministic

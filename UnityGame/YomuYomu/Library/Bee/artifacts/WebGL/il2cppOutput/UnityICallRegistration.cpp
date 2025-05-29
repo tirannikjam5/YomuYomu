@@ -3726,6 +3726,10 @@ void RegisterAllStrippedInternalCalls()
 
 	//Start Registrations for type : UnityEngine.PlayerPrefs
 
+		//System.Boolean UnityEngine.PlayerPrefs::TrySetFloat_Injected(UnityEngine.Bindings.ManagedSpanWrapper&,System.Single)
+		void Register_UnityEngine_PlayerPrefs_TrySetFloat_Injected();
+		Register_UnityEngine_PlayerPrefs_TrySetFloat_Injected();
+
 		//System.Boolean UnityEngine.PlayerPrefs::TrySetInt_Injected(UnityEngine.Bindings.ManagedSpanWrapper&,System.Int32)
 		void Register_UnityEngine_PlayerPrefs_TrySetInt_Injected();
 		Register_UnityEngine_PlayerPrefs_TrySetInt_Injected();
@@ -3733,6 +3737,10 @@ void RegisterAllStrippedInternalCalls()
 		//System.Int32 UnityEngine.PlayerPrefs::GetInt_Injected(UnityEngine.Bindings.ManagedSpanWrapper&,System.Int32)
 		void Register_UnityEngine_PlayerPrefs_GetInt_Injected();
 		Register_UnityEngine_PlayerPrefs_GetInt_Injected();
+
+		//System.Single UnityEngine.PlayerPrefs::GetFloat_Injected(UnityEngine.Bindings.ManagedSpanWrapper&,System.Single)
+		void Register_UnityEngine_PlayerPrefs_GetFloat_Injected();
+		Register_UnityEngine_PlayerPrefs_GetFloat_Injected();
 
 		//System.Void UnityEngine.PlayerPrefs::Save()
 		void Register_UnityEngine_PlayerPrefs_Save();

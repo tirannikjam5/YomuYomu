@@ -1,14 +1,17 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
+		<type fullname="BackgroundColor" preserve="nothing"/>
 		<type fullname="KanaData" preserve="nothing"/>
 		<type fullname="KanaDatabase" preserve="nothing"/>
 		<type fullname="KanaGameManager" preserve="nothing"/>
+		<type fullname="PowerUpManager" preserve="nothing"/>
 		<type fullname="WordData" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="DOTween">
 		<type fullname="DG.Tweening.Core.DOTweenSettings" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.2D.Animation.Runtime">
+		<type fullname="UnityEngine.U2D.Animation.BufferManager" preserve="nothing"/>
 		<type fullname="UnityEngine.U2D.Animation.DeformationManager" preserve="nothing"/>
 		<type fullname="UnityEngine.U2D.Animation.DeformationManagerUpdater" preserve="nothing"/>
 	</assembly>
